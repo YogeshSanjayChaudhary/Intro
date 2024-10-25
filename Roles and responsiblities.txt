@@ -1,0 +1,100 @@
+My name is Yogesh.I have 4+years of experience in IT industry and around 3 years of experience in Devops and 
+AWS Cloud.
+
+Currently I am working in Marks TechnoSystems as DevOps Engineer.
+
+As part of my role, I am responsible to setup & Manage CI/CD pipelines.
+
+I have used various Devops tools like Git for version control system, Jenkins for Continous Integration,
+Maven for build, Nexus for artifact repository, Ansible for Continous Deployment and Configuration Management,
+Docker for containerisation.
+
+This entire devops environment was setup by me according to devops architect plan.
+
+Daily Activities:
+
+1. Checking Mails
+
+2. Providing help to developers
+
+3. Creating Jenkins jobs for deployment.
+
+4. Managing Users access on resources
+
+5. Managing CI/CD Jobs
+
+6. Managing Jenkins Jobs
+
+7. Integrating other devops tools with jenkins
+
+8. Setting up and managing Ansible server with ansible hosts
+
+9. writing playbooks and roles
+
+10.Setup Docker environment
+
+11.writing Dockerfiles
+
+12. creating custom images
+
+13. creating and managing containers
+
+14. storing artifacts on nexus and s3 buckets
+
+
+Activities of Cloud Engineer-
+
+1. Launching of EC2 Instances
+
+2. Bootstrapping EC2 instances while launching
+
+3. Modifying EC2 instance Security Groups to open or close port no.
+
+4. Shutting down unused instances as per customer confirmation.
+
+5. Taking AMI/Snapshots 
+
+6. Assigning Roles
+
+7. Creating ELB, LC and autoscaling
+
+8. VPC
+
+9. RDS
+
+11. Modifiying instance type in case of demanding more/less resources(CPU/Memory)
+
+12. Requesting SSL certificates for new domains in certificate manager (ACM)
+
+13. Troubleshooting in case of instances are "out of service" in ELB.
+
+14. creting new EBS Volumes, modifying existing volume size or volume types.
+
+15. Taking volume snapshots.
+
+16. copying volumes from one AZ to another AZ.
+
+17.creating EFS and mounting it in multiple instances.
+
+18. creating IAM Users and granting minimal permissions
+
+19. Generating or modifying IAM policies as per requirement
+
+20. Enforcing users to use secure password and MFA
+
+21. creating alarms, events in cloudwatch
+
+22. monitoring instance resource utilization through cloudwatch.
+
+23. creating route53 hosted zones to map with public or private domain
+
+24. creating record sets to map with ec2 instances/elbs
+
+25. mapping domain from domain registers to route53.
+
+26. creating RDS instances as per database team requirement
+
+27. Enabling Multi-AZ, read replicas as per demand
+
+28. Taking snapshots and restore from snapshots
+
